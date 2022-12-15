@@ -1,0 +1,8 @@
+lightfm
+numpy>=1,<2
+metaflow==2.5.0
+matplotlib==3.4.3
+pandas>=1,<2
+streamlit==1.10.0
+comet-ml==3.19.0
+flask

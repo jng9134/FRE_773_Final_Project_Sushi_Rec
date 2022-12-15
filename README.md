@@ -28,3 +28,8 @@ We plan to make a Sushi recommender system that recommends a new sushi to users 
 * Run:
 
 `python app.py`
+
+### Authors
+Fengsheng Zhang fz2101@nyu.edu
+James Ng jtn276@nyu.edu
+Rong Cao rc3479@nyu.edu

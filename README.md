@@ -10,7 +10,6 @@ We plan to make a Sushi recommender system that recommends a new sushi to users 
 
 `pip install -r requirements.txt`
 
-* Jupyter Notebook is inside the Sushi_Data folder
 * Run SUSHI.ipynb
 
 ### Running Flow
